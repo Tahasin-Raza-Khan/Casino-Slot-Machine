@@ -1,4 +1,4 @@
-# Casino slot machine with CSS and Javascript <br>
+# Casino slot machine with CSS and Javascript 
 
-# Deployment
+# Deployment 
 https://tahasin-raza-khan.github.io/Casino-Slot-Machine/
